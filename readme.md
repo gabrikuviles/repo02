@@ -7,3 +7,6 @@
 📌 __git commit__: Con esto pasamos los archivos del staging area al erpositorio local.  
 📌 __git log__: Para ver los archivos del repositorio local.  
 📌 __git push__: Para pasar los archivos del repositorio local a la nube.  
+📌 __git clone__: Para clonar un repositorio de la nube.  
+📌 __git pull__: Para "bajar" los archivos de la nube al repositorio local.  
+📌 __touch__: Para crear un archivo en el repositorio en el que nos encontremos.
